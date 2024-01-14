@@ -7,21 +7,21 @@ The Project is divided into the following Sections:
 3. Web Application using Flask to show model results and predictions in real time.
 # Folder Structure:
 
-*app
-*templates
-master.html
+* app
+* templates
+* master.html
 * go.html
-o run.py
+* run.py
 * data
-o disaster_categories.csv
-o ML Pipeline Preparation.ipynb
-o ETL Pipeline Preparation.ipynb
-o disaster_messages.csv
-o process_data.py
-o Disaster_Response.db
+* disaster_categories.csv
+* ML Pipeline Preparation.ipynb
+* ETL Pipeline Preparation.ipynb
+* disaster_messages.csv
+* process_data.py
+* Disaster_Response.db
 * models
-o train_classifier.py
-o classifier.pkl
+* train_classifier.py
+* classifier.pkl
 * README.md
 
 # Disaster Response Pipeline Project at Github
@@ -40,4 +40,3 @@ o classifier.pkl
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
-
