@@ -9,19 +9,19 @@ The Project is divided into the following Sections:
 
 * app
     * templates
-* master.html
-* go.html
-* run.py
+      * master.html
+      * go.html
+   * run.py
 * data
-* disaster_categories.csv
-* ML Pipeline Preparation.ipynb
-* ETL Pipeline Preparation.ipynb
-* disaster_messages.csv
-* process_data.py
-* Disaster_Response.db
+   * disaster_categories.csv
+   * ML Pipeline Preparation.ipynb
+   * ETL Pipeline Preparation.ipynb
+   * disaster_messages.csv
+   * process_data.py
+   * Disaster_Response.db
 * models
-* train_classifier.py
-* classifier.pkl
+   * train_classifier.py
+   * classifier.pkl
 * README.md
 
 # Disaster Response Pipeline Project at Github
