@@ -8,7 +8,7 @@ The Project is divided into the following Sections:
 # Folder Structure:
 
 * app
-* templates
+    * templates
 * master.html
 * go.html
 * run.py
