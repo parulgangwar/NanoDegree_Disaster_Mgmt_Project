@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-## As a part of Data Science Nanodegree program by Udacity, this is second project named “Disaster Response Pipeline Project”. Dataset used for this project is based on pre-labelled tweet and messages from real-life disasters. Goal of this project is to create a machine learning pipelines to categorize the real messages that were sent during disaster events. Based on this categorization, we can send the messages to an appropriate disaster relief agency.
+As a part of Data Science Nanodegree program by Udacity, this is second project named “Disaster Response Pipeline Project”. Dataset used for this project is based on pre-labelled tweet and messages from real-life disasters. Goal of this project is to create a machine learning pipelines to categorize the real messages that were sent during disaster events. Based on this categorization, we can send the messages to an appropriate disaster relief agency.
 
 The Project is divided into the following Sections:
 1. Data Processing, ETL Pipeline to extract data from source, clean data and save them in a proper database structure.
@@ -7,9 +7,9 @@ The Project is divided into the following Sections:
 3. Web Application using Flask to show model results and predictions in real time.
 # Folder Structure:
 
-* app
-o templates
-* master.html
+*app
+*templates
+master.html
 * go.html
 o run.py
 * data
